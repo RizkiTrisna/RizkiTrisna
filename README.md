@@ -7,4 +7,6 @@
 - 📫 How to reach me: [Website] https://rizkitrisna.com/
 - 😄 Pronouns: He/Him
 
-|<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RizkiTrisna&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiTrisna&layout=compact&theme=buefy&hide_border=true" /></a>|
+| <a href="https://github.com/RizkiTrisna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RizkiTrisna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rizki Trisna's github stats" /></a> | <a href="https://github.com/RizkiTrisna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiTrisna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
