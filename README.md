@@ -1,4 +1,4 @@
-### Here I'm currently working on 👋
+### Hi, I'm Rizki Trisna 👋
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning Laravel and Go Language
